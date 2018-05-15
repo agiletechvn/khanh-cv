@@ -11,6 +11,9 @@
   name: Docker & Kubernetes
   level: 80%
 - skill:
+  name: Management, Git & Jira
+  level: 80%
+- skill:
   name: MySQL, MongoDB and Redis
   level: 70%
 - skill:
