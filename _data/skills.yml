@@ -1,18 +1,30 @@
 - skill:
-  name: Python & Django
-  level: 98%
-- skill:
-  name: Javascript & jQuery
-  level: 98%
-- skill:
-  name: Angular
-  level: 98%
-- skill:
-  name: HTML5 & CSS
+  name: Reactjs & React-native
   level: 95%
 - skill:
-  name: Ruby on Rails
-  level: 85%
+  name: Nodejs & Loopbackjs
+  level: 90%
 - skill:
-  name: Sketch & Photoshop
+  name: Blockchain, Hyperledger Fabric and Sawtooth
+  level: 80%
+- skill:
+  name: Docker & Kubernetes
+  level: 80%
+- skill:
+  name: MySQL, MongoDB and Redis
+  level: 70%
+- skill:
+  name: Python & Django
+  level: 70%
+- skill:
+  name: Go lang
+  level: 70%
+- skill:
+  name: Kafka & Spark
   level: 60%
+- skill:
+  name: Elasticsearch, MariaDb and Cassandra
+  level: 50%
+- skill:
+  name: Machine Learning & Big Data
+  level: 50%

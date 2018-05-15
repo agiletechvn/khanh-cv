@@ -1,6 +1,6 @@
 # Site Settings
-title: My Resume
-description: "An Agiletech Viet Nam staff resume"
+title: Khanh Resume
+description: "Curriculum Vitae of khanh@agiletech.vn"
 url: 'http://agiletech.vn'
 baseurl: 'https://agiletechvn.github.io' #change it according to your repository name
 about: True # set to False or comment line if you want to remove the "How to use?" in the sidebar
@@ -15,21 +15,22 @@ about: True # set to False or comment line if you want to remove the "How to use
 
 
 #Profile information
-name: Alan Doe
+name: Khanh Pham Gia
 tagline: Full Stack Developer
-pic: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
-summary: 'Summarise your career here lorem ipsum dolor sit amet, consectetuer adipiscing elit.
-You can <a href="#" target="_blank">download this free resume/CV template here</a>. Aenean
-commodo ligula eget dolor aenean massa. Cum sociis natoque penatibus et magnis dis parturient
-montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu.'
+pic: avatar.jpg  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
+summary: 'A Full-Stack Developer with highly passionate in studying and applying 
+new technologies in product development, as well as enterprise area. Large background 
+in multiple platforms as web-app, mobile-app and server-app. Can work independently or 
+in a team (prefer working in a team which allows continuous sharing and communicating). 
+Solution Architect is always my goal. Use English confidently.'
 
 #sidebar links
-email: hello@webjeda.com
-phone: 012 345 6789
-website: blog.webjeda.com #do not add http://
-linkedin: alandoe
-github: sharu725
-twitter: '@webjeda'
+email: khanh@agiletech.vn
+phone: '+84 1662 95 2222'
+website: agiletech.vn #do not add http://
+linkedin: pham-khanh
+github: vjtc0n
+twitter: 'vjtc0n'
 #Update all the sections by editing the files inside _data folder.
 
 # uncomment the next line, if you want the education section displayed in main instead of the sidebar
