@@ -12,7 +12,7 @@
   {% for publication in site.data.publications.publications %}
     <div class="item">
       <div class="publication-title"><a target="_blank" href="{{ publication.conference }}">{{ publication.title }}</a></div>
-      <div class="job-title">{{ publication.authors }}</div> 
+      <div class="details" style="font-weight: bold;">{{ publication.authors }}</div> 
       <div class="details">{{ publication.detail }}</div>      
     </div><!--//item-->
   {% endfor %}
