@@ -5,13 +5,13 @@
   name: Nodejs & Loopbackjs
   level: 90%
 - skill:
-  name: Blockchain, Hyperledger Fabric and Sawtooth
+  name: "Blockchain: Hyperledger Fabric and Sawtooth"
   level: 80%
 - skill:
   name: Docker & Kubernetes
   level: 80%
 - skill:
-  name: Management, Git & Jira
+  name: "Management: Git & Jira"
   level: 80%
 - skill:
   name: MySQL, MongoDB and Redis
@@ -24,6 +24,9 @@
   level: 70%
 - skill:
   name: Kafka & Spark
+  level: 60%
+- skill:
+  name: "CICD: Sonarqube, Jenkins, Fastlane and Crashlytics Fabric"
   level: 60%
 - skill:
   name: Elasticsearch, MariaDb and Cassandra
