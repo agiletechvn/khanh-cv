@@ -15,7 +15,7 @@ projects:
   - project:
     title: Dota2 Prediction
     link: "#"
-    tagline: "A small application for Dota2 competitve game prediction. Dota2 is a MMORPG game developed by Valve."
+    tagline: "A predicting application for DotA 2, a MMORPG/MOBA game by Valve, competitive games."
   - project:
     title: Fabric and k8s
     link: "#"
