@@ -14,7 +14,7 @@
   name: "Management: Git & Jira"
   level: 80%
 - skill:
-  name: MySQL, MongoDB & Redis
+  name: MariaDB, MongoDB & Redis
   level: 70%
 - skill:
   name: Python & Django
@@ -29,7 +29,7 @@
   name: "CI/CD: Sonarqube, Jenkins, Fastlane & Crashlytics Fabric"
   level: 60%
 - skill:
-  name: Elasticsearch, MariaDB & Cassandra
+  name: ELK (Elasticsearch-LogStash-Kibana) & Cassandra
   level: 50%
 - skill:
   name: Machine Learning & Big Data
